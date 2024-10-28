@@ -1,0 +1,12 @@
+commit 792da555513c83ccf34cf8ef8e996a1d27ae64e0 (HEAD -> main, origin/main)
+Author: rbelavadi <rbelavad@uci.edu>
+Date:   Mon Oct 28 09:38:19 2024 -0700
+
+    Added name
+
+commit 2d61569edd3c61fa93f834b6db046a9da3c28ba8 (HEAD -> main, origin/main)
+Author: rbelavadi <rbelavad@uci.edu>
+Date:   Mon Oct 28 09:42:48 2024 -0700
+
+    Aded email
+
